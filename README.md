@@ -2,7 +2,7 @@
 ![nohello.fyi](https://raw.githubusercontent.com/iamaviator/nohello.fyi/314240a4ccf5af03b8fdadfe234e6ad0fc0d509b/hello.jpg)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iamaviator/nohello.fyi/314240a4ccf5af03b8fdadfe234e6ad0fc0d509b/hello.jpg" />
+  <img src="https://raw.githubusercontent.com/iamaviator/nohello.fyi/main/hello1.png" />
 </p>
 
 
