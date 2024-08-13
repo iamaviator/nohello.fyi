@@ -1,4 +1,5 @@
 # nohello.fyi
+![nohello.fyi](https://github.com/iamaviator/nohello.fyi/blob/314240a4ccf5af03b8fdadfe234e6ad0fc0d509b/hello.jpg)
 # Please Don't Just Say Hello In Chat
 
 ## TL;DR
