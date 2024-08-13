@@ -1,4 +1,4 @@
-# nohello.github.io
+# nohello.fyi
 # Please Don't Just Say Hello In Chat
 
 ## TL;DR
