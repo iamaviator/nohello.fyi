@@ -1,7 +1,7 @@
 # nohello.fyi
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iamaviator/nohello.fyi/main/hello1.png" />
+  <img src="https://raw.githubusercontent.com/iamaviator/nohello.fyi/main/hello.png" />
 </p>
 
 
